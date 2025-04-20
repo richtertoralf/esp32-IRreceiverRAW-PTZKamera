@@ -1,5 +1,7 @@
 # esp32-IRreceiverRAW-PTZKamera
-esp32-IRreceiverRAW für PTZ Kamera HDKatov
+esp32-IRreceiverRAW für PTZ Kamera HDKatov  
+Nachdem ich die exakten IR-Daten aus der Fernbedienung ausgelesen hatte, habe ich diese mit dem folgenden Sketch getestet.
+
 ```cpp
 #include <IRremote.hpp>
 
